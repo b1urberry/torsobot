@@ -1,0 +1,2 @@
+basic_motors_and_sensors:imu_complementary_filter:imu_filter_madgwick:mobrob:mobrob_util:torsobot:torsobot_22
+-DCATKIN_DEVEL_PREFIX=/home/pi/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/pi/catkin_ws/install -G Unix Makefiles

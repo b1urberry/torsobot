@@ -1,0 +1,8 @@
+Testing Time:2022-03-22 16:08:47.939455
+--------------------------------------------------
+------------First PID----------------
+kp_angle = 22.0, ki_angle = 15.0, kd_angle = 0.0, kp_speed = 20.0, ki_speed = 15.0, Speed Desired = 0.7
+------------Second PID----------------
+kp_angle = 12.0, ki_angle = 14.0, kd_angle = 0.2, kp_speed = 6.0, ki_speed = 8.0, Speed Desired = 0.5
+--------------------------------------------------
+Time		Speed_desired		Wheel_speed	Speed_error	Speed_error_cum	Angle_desired	imu_angle	angle_error	angle_error_cum	angle_diff	motor_output

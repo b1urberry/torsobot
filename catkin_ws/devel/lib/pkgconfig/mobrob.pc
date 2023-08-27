@@ -1,0 +1,8 @@
+prefix=/home/pi/catkin_ws/devel
+
+Name: mobrob
+Description: Description of mobrob
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: geometry_msgs roscpp rospy std_msgs message_runtime

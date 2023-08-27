@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/pi/catkin_ws/src/i2c_sensors/devel -DCMAKE_INSTALL_PREFIX=/home/pi/catkin_ws/src/i2c_sensors/install -G Unix Makefiles

@@ -1,0 +1,8 @@
+prefix=/home/pi/catkin_ws/install
+
+Name: torsobot
+Description: Description of torsobot
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

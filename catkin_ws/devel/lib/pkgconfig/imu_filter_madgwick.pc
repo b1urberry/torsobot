@@ -1,0 +1,8 @@
+prefix=/home/pi/catkin_ws/devel
+
+Name: imu_filter_madgwick
+Description: Description of imu_filter_madgwick
+Version: 1.2.4
+Cflags: -I/home/pi/catkin_ws/devel/include -I/home/pi/catkin_ws/src/imu_filter_madgwick/include -I/usr/include
+Libs: -L${prefix}/lib -limu_filter -limu_filter_nodelet /usr/lib/arm-linux-gnueabihf/libboost_system.so /usr/lib/arm-linux-gnueabihf/libboost_thread.so -pthread /usr/lib/arm-linux-gnueabihf/libboost_chrono.so /usr/lib/arm-linux-gnueabihf/libboost_date_time.so /usr/lib/arm-linux-gnueabihf/libboost_atomic.so
+Requires: dynamic_reconfigure geometry_msgs message_filters nodelet pluginlib roscpp sensor_msgs tf2_geometry_msgs tf2_ros

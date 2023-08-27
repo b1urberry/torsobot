@@ -1,0 +1,8 @@
+prefix=/home/pi/catkin_ws/install
+
+Name: mobrob_util
+Description: Description of mobrob_util
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: geometry_msgs message_generation message_runtime roscpp rospy std_msgs
